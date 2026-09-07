@@ -5,13 +5,13 @@ about:
   head: 3c00f04
   archived: false
   latestVersion: "v1.12.0"
-  collectedAt: 2026-09-07T04:42:34Z
+  collectedAt: 2026-09-07T19:39:21Z
 timeline:
   created: 2015-02-25
   lastCommit: 2026-09-01
   lastRelease: 2026-08-29
 popularity:
-  star: 16501
+  star: 16506
   watcher: 208
   fork: 1612
   release: 41
@@ -80,7 +80,7 @@ total:
   commit: 261
 ---
 path: /home/runner/.x-repo/github.com/jpillora/chisel
-collectedAt: 2026-09-07T04:42:37Z
+collectedAt: 2026-09-07T19:39:23Z
 loc:
   Go:
     code: 6893
@@ -221,7 +221,7 @@ checks:
       - 'Warn: 0 commits out of 17 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:43:01+00:00
+  collectedAt: 2026-09-07T19:39:23+00:00
   platform:
     darwin/arm64:
       name:  chisel_1.12.0_darwin_arm64.gz
