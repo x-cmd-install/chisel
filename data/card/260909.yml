@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.12.0"
   latestRelease: "v1.12.0"
   latestPrerelease: "v1.12.0-rc3"
-  collectedAt: 2026-09-09T04:54:55Z
+  collectedAt: 2026-09-09T19:00:09Z
 timeline:
   created: 2015-02-25
   lastCommit: 2026-09-01
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-29
   lastPrerelease: 2026-08-08
 popularity:
-  star: 16506
+  star: 16509
   watcher: 208
-  fork: 1611
+  fork: 1610
   release: 41
   contributor: 40
   pullRequest: 255
@@ -84,7 +84,7 @@ total:
   commit: 261
 ---
 path: /home/runner/.x-repo/github.com/jpillora/chisel
-collectedAt: 2026-09-09T04:54:57Z
+collectedAt: 2026-09-09T19:00:12Z
 loc:
   Go:
     code: 6893
