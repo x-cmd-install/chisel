@@ -4,7 +4,7 @@
 
 A fast TCP/UDP tunnel over HTTP
 
-![chisel](https://repo.x-cmd.io/chisel.svg)
+![chisel](https://repo.x-cmd.io/chisel.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,95 @@ x install chisel
 - **最新版本**: `v1.12.0` (2026-08-29)
 - **最近提交**: 2026-09-01
 - **Release 含资产**: 80 个
-- **发布时间**: 2026-08-29T13:30:36Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [chisel_1.12.0_checksums.txt](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_checksums.txt) | 7.7 KiB | `other` |
+| [chisel_1.12.0_darwin_amd64.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_darwin_amd64.gz) | 4.6 MiB | `native/darwin/x64` |
+| [chisel_1.12.0_darwin_arm64.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_darwin_arm64.gz) | 4.2 MiB | `native/darwin/arm64` |
+| [chisel_1.12.0_linux_386.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_386.apk) | 4.5 MiB | `other` |
+| [chisel_1.12.0_linux_386.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_386.deb) | 4.4 MiB | `other` |
+| [chisel_1.12.0_linux_386.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_386.gz) | 4.3 MiB | `other` |
+| [chisel_1.12.0_linux_386.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_386.rpm) | 4.3 MiB | `other` |
+| [chisel_1.12.0_linux_amd64.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_amd64.apk) | 4.7 MiB | `native/linux/x64` |
+| [chisel_1.12.0_linux_amd64.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_amd64.deb) | 4.5 MiB | `native/linux/x64` |
+| [chisel_1.12.0_linux_amd64.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_amd64.gz) | 4.5 MiB | `native/linux/x64` |
+| [chisel_1.12.0_linux_amd64.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_amd64.rpm) | 4.5 MiB | `native/linux/x64` |
+| [chisel_1.12.0_linux_arm64.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_arm64.apk) | 4.2 MiB | `native/linux/arm64` |
+| [chisel_1.12.0_linux_arm64.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_arm64.deb) | 4.1 MiB | `native/linux/arm64` |
+| [chisel_1.12.0_linux_arm64.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_arm64.gz) | 4.1 MiB | `native/linux/arm64` |
+| [chisel_1.12.0_linux_arm64.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_arm64.rpm) | 4.1 MiB | `native/linux/arm64` |
+| [chisel_1.12.0_linux_armv5.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv5.apk) | 4.5 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv5.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv5.deb) | 4.3 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv5.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv5.gz) | 4.3 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv5.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv5.rpm) | 4.3 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv6.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv6.apk) | 4.5 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv6.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv6.deb) | 4.3 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv6.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv6.gz) | 4.3 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv6.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv6.rpm) | 4.3 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv7.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv7.apk) | 4.4 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv7.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv7.deb) | 4.3 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv7.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv7.gz) | 4.3 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_armv7.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv7.rpm) | 4.3 MiB | `native/linux/arm` |
+| [chisel_1.12.0_linux_mips64le_hardfloat.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64le_hardfloat.apk) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mips64le_hardfloat.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64le_hardfloat.deb) | 3.9 MiB | `other` |
+| [chisel_1.12.0_linux_mips64le_hardfloat.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64le_hardfloat.gz) | 3.9 MiB | `other` |
+| [chisel_1.12.0_linux_mips64le_hardfloat.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64le_hardfloat.rpm) | 3.9 MiB | `other` |
+| [chisel_1.12.0_linux_mips64le_softfloat.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64le_softfloat.apk) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mips64le_softfloat.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64le_softfloat.deb) | 3.9 MiB | `other` |
+| [chisel_1.12.0_linux_mips64le_softfloat.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64le_softfloat.gz) | 3.9 MiB | `other` |
+| [chisel_1.12.0_linux_mips64le_softfloat.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64le_softfloat.rpm) | 3.9 MiB | `other` |
+| [chisel_1.12.0_linux_mips64_hardfloat.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64_hardfloat.apk) | 4.2 MiB | `other` |
+| [chisel_1.12.0_linux_mips64_hardfloat.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64_hardfloat.deb) | 4.0 MiB | `other` |
+| [chisel_1.12.0_linux_mips64_hardfloat.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64_hardfloat.gz) | 3.9 MiB | `other` |
+| [chisel_1.12.0_linux_mips64_hardfloat.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64_hardfloat.rpm) | 3.9 MiB | `other` |
+| [chisel_1.12.0_linux_mips64_softfloat.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64_softfloat.apk) | 4.2 MiB | `other` |
+| [chisel_1.12.0_linux_mips64_softfloat.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64_softfloat.deb) | 4.0 MiB | `other` |
+| [chisel_1.12.0_linux_mips64_softfloat.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64_softfloat.gz) | 4.0 MiB | `other` |
+| [chisel_1.12.0_linux_mips64_softfloat.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64_softfloat.rpm) | 4.0 MiB | `other` |
+| [chisel_1.12.0_linux_mipsle_hardfloat.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mipsle_hardfloat.apk) | 4.3 MiB | `other` |
+| [chisel_1.12.0_linux_mipsle_hardfloat.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mipsle_hardfloat.deb) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mipsle_hardfloat.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mipsle_hardfloat.gz) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mipsle_hardfloat.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mipsle_hardfloat.rpm) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mipsle_softfloat.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mipsle_softfloat.apk) | 4.3 MiB | `other` |
+| [chisel_1.12.0_linux_mipsle_softfloat.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mipsle_softfloat.deb) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mipsle_softfloat.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mipsle_softfloat.gz) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mipsle_softfloat.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mipsle_softfloat.rpm) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mips_hardfloat.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips_hardfloat.apk) | 4.3 MiB | `other` |
+| [chisel_1.12.0_linux_mips_hardfloat.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips_hardfloat.deb) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mips_hardfloat.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips_hardfloat.gz) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mips_hardfloat.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips_hardfloat.rpm) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mips_softfloat.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips_softfloat.apk) | 4.3 MiB | `other` |
+| [chisel_1.12.0_linux_mips_softfloat.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips_softfloat.deb) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mips_softfloat.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips_softfloat.gz) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_mips_softfloat.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips_softfloat.rpm) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_ppc64.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_ppc64.apk) | 4.3 MiB | `other` |
+| [chisel_1.12.0_linux_ppc64.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_ppc64.deb) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_ppc64.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_ppc64.gz) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_ppc64.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_ppc64.rpm) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_ppc64le.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_ppc64le.apk) | 4.3 MiB | `other` |
+| [chisel_1.12.0_linux_ppc64le.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_ppc64le.deb) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_ppc64le.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_ppc64le.gz) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_ppc64le.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_ppc64le.rpm) | 4.1 MiB | `other` |
+| [chisel_1.12.0_linux_s390x.apk](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_s390x.apk) | 4.6 MiB | `other` |
+| [chisel_1.12.0_linux_s390x.deb](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_s390x.deb) | 4.4 MiB | `runtime/deb/s390x` |
+| [chisel_1.12.0_linux_s390x.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_s390x.gz) | 4.4 MiB | `other` |
+| [chisel_1.12.0_linux_s390x.rpm](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_s390x.rpm) | 4.4 MiB | `other` |
+| [chisel_1.12.0_openbsd_386.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_openbsd_386.gz) | 4.3 MiB | `other` |
+| [chisel_1.12.0_openbsd_amd64.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_openbsd_amd64.gz) | 4.5 MiB | `other` |
+| [chisel_1.12.0_openbsd_arm64.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_openbsd_arm64.gz) | 4.0 MiB | `other` |
+| [chisel_1.12.0_openbsd_armv5.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_openbsd_armv5.gz) | 4.3 MiB | `other` |
+| [chisel_1.12.0_openbsd_armv6.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_openbsd_armv6.gz) | 4.3 MiB | `other` |
+| [chisel_1.12.0_openbsd_armv7.gz](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_openbsd_armv7.gz) | 4.3 MiB | `other` |
+| [chisel_1.12.0_windows_386.zip](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_windows_386.zip) | 4.5 MiB | `native/win/x64` |
+| [chisel_1.12.0_windows_amd64.zip](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_windows_amd64.zip) | 4.6 MiB | `native/win/x64` |
+| [chisel_1.12.0_windows_arm64.zip](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_windows_arm64.zip) | 4.2 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 16,510 · **Fork**: 1,610 · **开放 issue**: 357 · **贡献者**: 40
+- **Star**: 16,513 · **Fork**: 1,609 · **开放 issue**: 357 · **贡献者**: 40
 
 ## 累计统计
 
@@ -71,4 +155,4 @@ chisel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:51:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:37:03Z._
