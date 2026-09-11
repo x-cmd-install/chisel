@@ -12,6 +12,28 @@ A fast TCP/UDP tunnel over HTTP
 x install chisel
 ```
 
+## 代码洞察
+
+合计: **6,955** 行代码（覆盖前 5 种语言、共 **82** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 6,893 | 821 | 674 | 75 |
+| Makefile | 37 | 0 | 15 | 1 |
+| Json | 14 | 0 | 0 | 1 |
+| Toml | 11 | 0 | 2 | 1 |
+| Markdown | 0 | 938 | 416 | 4 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **5.2 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (0/10) — Found 2/23 approved changesets -- score normalized to 0
+- **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/jpillora/chisel>
@@ -22,6 +44,25 @@ x install chisel
 - **最新版本**: `v1.12.0` (2026-08-29)
 - **最近提交**: 2026-09-01
 - **Release 含资产**: 80 个
+
+## 流行度
+
+- **Star**: 16,514 · **Fork**: 1,609 · **开放 issue**: 357 · **贡献者**: 40
+
+## 累计统计
+
+- **发布数**: 41 · **已合并 PR**: 58 · **开放 PR**: 48 · **已关闭 issue**: 159 · **开放 issue**: 198 · **提交数**: 261
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 1 | 0 | 2 | 1 | 0 | 7 |
+| last60d | 2026-07-13 | 4 | 3 | 4 | 1 | 2 | 11 |
+| 90d | 2026-06-13 | 6 | 5 | 7 | 1 | 4 | 13 |
+| last180d | 2026-03-15 | 6 | 6 | 10 | 2 | 5 | 14 |
+| 360d | 2025-09-16 | 8 | 7 | 11 | 3 | 8 | 17 |
+| last720d | 2024-09-21 | 10 | 10 | 21 | 10 | 22 | 24 |
 
 ## Release 资产
 
@@ -108,44 +149,6 @@ x install chisel
 | [chisel_1.12.0_windows_amd64.zip](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_windows_amd64.zip) | 4.6 MiB | `native/win/x64` |
 | [chisel_1.12.0_windows_arm64.zip](https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_windows_arm64.zip) | 4.2 MiB | `native/win/arm64` |
 
-## 流行度
-
-- **Star**: 16,513 · **Fork**: 1,609 · **开放 issue**: 357 · **贡献者**: 40
-
-## 累计统计
-
-- **发布数**: 41 · **已合并 PR**: 58 · **开放 PR**: 48 · **已关闭 issue**: 159 · **开放 issue**: 198 · **提交数**: 261
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 2 | 1 | 0 | 7 |
-| 90d | 2026-06-12 | 6 | 5 | 7 | 1 | 4 | 13 |
-| 360d | 2025-09-15 | 8 | 7 | 11 | 3 | 8 | 17 |
-
-## 代码规模
-
-合计: **6,955** 行代码（覆盖前 5 种语言、共 **82** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 6,893 | 821 | 674 | 75 |
-| Makefile | 37 | 0 | 15 | 1 |
-| Json | 14 | 0 | 0 | 1 |
-| Toml | 11 | 0 | 2 | 1 |
-| Markdown | 0 | 938 | 416 | 4 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **5.2 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 2/23 approved changesets -- score normalized to 0
-- **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## 改进这些数据
 
 chisel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `chisel` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -155,4 +158,4 @@ chisel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:37:03Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:09:03Z._
