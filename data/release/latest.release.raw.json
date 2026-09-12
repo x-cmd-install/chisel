@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7927,
       "digest": "sha256:5799baf2d6655a9411b9da3fdbad51fe488fc450a42d7911718ea8a55dc1ae10",
-      "download_count": 1773,
+      "download_count": 1821,
       "created_at": "2026-08-29T13:29:14Z",
       "updated_at": "2026-08-29T13:29:15Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4810408,
       "digest": "sha256:4aeae36c867f11c8e8c3f2b913a0e063ea3c6d29e1c14a52ed2e6eef8cfc4395",
-      "download_count": 1307,
+      "download_count": 1335,
       "created_at": "2026-08-29T13:29:15Z",
       "updated_at": "2026-08-29T13:29:16Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_darwin_amd64.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4433894,
       "digest": "sha256:707a4b932eea214765146504a0df246cefc415b4297af65a80dd67cf69ba85a9",
-      "download_count": 1351,
+      "download_count": 1386,
       "created_at": "2026-08-29T13:29:15Z",
       "updated_at": "2026-08-29T13:29:15Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_darwin_arm64.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4568880,
       "digest": "sha256:4cb6fc01def81218a51b496faa9f2ce2db9c618183dc1541c576765e2e30cb8b",
-      "download_count": 64,
+      "download_count": 66,
       "created_at": "2026-08-29T13:29:06Z",
       "updated_at": "2026-08-29T13:29:07Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_386.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4550769,
       "digest": "sha256:d8dd3c93809a0334297db6cefd028aaad8d5d2e757f7c6c3e9c4d6fa054e5317",
-      "download_count": 129,
+      "download_count": 131,
       "created_at": "2026-08-29T13:29:18Z",
       "updated_at": "2026-08-29T13:29:18Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_386.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4552167,
       "digest": "sha256:fc98883ae40909dfffea0f63cec30df76cef4580dbffde44ee61556ea89d9744",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-08-29T13:29:09Z",
       "updated_at": "2026-08-29T13:29:09Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_386.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4741462,
       "digest": "sha256:e0e84b4eefcc99b82836794eb4aa6ec2915445ee1655c84d20711966d54a97a0",
-      "download_count": 263,
+      "download_count": 266,
       "created_at": "2026-08-29T13:29:04Z",
       "updated_at": "2026-08-29T13:29:04Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_amd64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4724737,
       "digest": "sha256:f3f180f1d93aa72cce4e6386f98cc06569a0146fbd65eb4423cf83e6434bcfe6",
-      "download_count": 4329,
+      "download_count": 4413,
       "created_at": "2026-08-29T13:29:19Z",
       "updated_at": "2026-08-29T13:29:20Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_amd64.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4726124,
       "digest": "sha256:13d21884d709ef07fd9519f3315b963f251f7f38f3d96eafe0b1fd5aafd02bb5",
-      "download_count": 471,
+      "download_count": 501,
       "created_at": "2026-08-29T13:29:10Z",
       "updated_at": "2026-08-29T13:29:10Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_amd64.rpm"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4265191,
       "digest": "sha256:2ec6152cd2c74fe0146d4d79e4e7aa174521368c56e433d55e023a92ea404ec3",
-      "download_count": 374,
+      "download_count": 378,
       "created_at": "2026-08-29T13:29:18Z",
       "updated_at": "2026-08-29T13:29:19Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_arm64.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 4266641,
       "digest": "sha256:806d2f861675683ac91d301ddefe29144a5dfa789ea61e1cbc7cffc8d1af3bec",
-      "download_count": 453,
+      "download_count": 483,
       "created_at": "2026-08-29T13:29:07Z",
       "updated_at": "2026-08-29T13:29:08Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_arm64.rpm"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4555056,
       "digest": "sha256:069b343e1a88de9ad51166172e7d3960cdbdb0dd205cf170bdc7314fc32715f0",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-08-29T13:29:05Z",
       "updated_at": "2026-08-29T13:29:05Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv5.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 4531440,
       "digest": "sha256:bbb1b24c5ce904896fd7d444776b11949f2c042bf0ef3fd303ad2f797bb8a2f1",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-08-29T13:29:16Z",
       "updated_at": "2026-08-29T13:29:16Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv5.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 4670141,
       "digest": "sha256:c31ce1c10e43c4649f7dc6eda4dbd004b6775f25c770afccf530a766d963ff44",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-08-29T13:29:13Z",
       "updated_at": "2026-08-29T13:29:14Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv6.apk"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 4508917,
       "digest": "sha256:47ba1886948a2a71d91b1bebd94783456c62aa5e839c7a44406d7bb6f5175858",
-      "download_count": 45,
+      "download_count": 46,
       "created_at": "2026-08-29T13:29:16Z",
       "updated_at": "2026-08-29T13:29:17Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv7.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 4510371,
       "digest": "sha256:02aedb2e1722a98ca087d5f05e2ad188b7774b208fc1661e33b18821a6e3201c",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-08-29T13:29:07Z",
       "updated_at": "2026-08-29T13:29:08Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_armv7.rpm"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 4144828,
       "digest": "sha256:bf166dd72fa46427d8f2607c1d9d7a9f25844d68d3679d7684dda9b04a995781",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-08-29T13:29:20Z",
       "updated_at": "2026-08-29T13:29:20Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mips64_softfloat.gz"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 4303882,
       "digest": "sha256:6404cc2b74a476874b91886fdefc8a3cb7bde5f4fff93e6c27197ad50c8f2697",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-08-29T13:29:20Z",
       "updated_at": "2026-08-29T13:29:21Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_linux_mipsle_hardfloat.gz"
@@ -2839,7 +2839,7 @@
       "state": "uploaded",
       "size": 4765589,
       "digest": "sha256:2639397ab65f5eab9914a18c2b2ab92ad3797870d740bf3e299fb562b8d0b345",
-      "download_count": 214,
+      "download_count": 219,
       "created_at": "2026-08-29T13:29:15Z",
       "updated_at": "2026-08-29T13:29:15Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_windows_386.zip"
@@ -2875,7 +2875,7 @@
       "state": "uploaded",
       "size": 4873570,
       "digest": "sha256:600a8ad6f03bc7f6d285fd01ab6a3f8a657204adaafa5666ade9451d18df1ebc",
-      "download_count": 2983,
+      "download_count": 3037,
       "created_at": "2026-08-29T13:29:16Z",
       "updated_at": "2026-08-29T13:29:16Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_windows_amd64.zip"
@@ -2911,7 +2911,7 @@
       "state": "uploaded",
       "size": 4358897,
       "digest": "sha256:907e1538ab86522fa4b11d7e45192b5f54e74beb88745093f6b2ca5b6e4efbc8",
-      "download_count": 125,
+      "download_count": 127,
       "created_at": "2026-08-29T13:29:16Z",
       "updated_at": "2026-08-29T13:29:16Z",
       "browser_download_url": "https://github.com/jpillora/chisel/releases/download/v1.12.0/chisel_1.12.0_windows_arm64.zip"
