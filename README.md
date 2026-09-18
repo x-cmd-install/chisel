@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,547 · **Forks**: 1,610 · **Open issues**: 357 · **Contributors**: 40
+- **Stars**: 16,549 · **Forks**: 1,610 · **Open issues**: 357 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 0 | 2 | 1 | 0 | 7 |
-| last60d | 2026-07-19 | 2 | 1 | 4 | 1 | 0 | 9 |
-| 90d | 2026-06-19 | 6 | 5 | 6 | 1 | 4 | 13 |
-| last180d | 2026-03-21 | 6 | 6 | 9 | 2 | 5 | 14 |
-| 360d | 2025-09-22 | 8 | 7 | 11 | 3 | 8 | 17 |
-| last720d | 2024-09-27 | 10 | 10 | 21 | 10 | 22 | 24 |
+| 30d | 2026-08-19 | 1 | 0 | 2 | 0 | 0 | 7 |
+| last60d | 2026-07-20 | 2 | 1 | 4 | 1 | 0 | 9 |
+| 90d | 2026-06-20 | 6 | 5 | 6 | 1 | 4 | 13 |
+| last180d | 2026-03-22 | 6 | 6 | 9 | 2 | 5 | 14 |
+| 360d | 2025-09-23 | 8 | 7 | 11 | 3 | 8 | 17 |
+| last720d | 2024-09-28 | 10 | 10 | 21 | 10 | 22 | 24 |
 
 ## Release assets
 
@@ -158,4 +158,4 @@ Install metadata for chisel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:08:09Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:55:07Z._
