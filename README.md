@@ -14,15 +14,15 @@ x install chisel
 
 ## Code insight
 
-Total: **6,955** lines of code across **82** files in the top 5 languages.
+Total: **9,600** lines of code across **94** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,893 | 821 | 674 | 75 |
+| Go | 9,538 | 893 | 788 | 85 |
 | Makefile | 37 | 0 | 15 | 1 |
 | Json | 14 | 0 | 0 | 1 |
 | Toml | 11 | 0 | 2 | 1 |
-| Markdown | 0 | 938 | 416 | 4 |
+| Markdown | 0 | 1,144 | 506 | 6 |
 
 ## OpenSSF Scorecard
 
@@ -41,28 +41,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.12.0` (2026-08-29)
-- **Last commit**: 2026-09-01
+- **Latest**: `v1.13.0` (2026-08-29)
+- **Last commit**: 2026-10-11
 - **Assets in release**: 80
 
 ## Popularity
 
-- **Stars**: 16,632 · **Forks**: 1,613 · **Open issues**: 357 · **Contributors**: 40
+- **Stars**: 16,633 · **Forks**: 1,612 · **Open issues**: 357 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 58 · **Open PRs**: 51 · **Closed issues**: 159 · **Open issues**: 198 · **Commits**: 261
+- **Releases**: 42 · **Merged PRs**: 59 · **Open PRs**: 50 · **Closed issues**: 161 · **Open issues**: 196 · **Commits**: 263
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 1 | 0 | 6 | 1 | 0 | 7 |
-| 90d | 2026-07-13 | 4 | 3 | 8 | 1 | 2 | 11 |
-| last180d | 2026-04-14 | 6 | 6 | 12 | 2 | 5 | 14 |
-| 360d | 2025-10-16 | 8 | 7 | 15 | 3 | 8 | 17 |
-| last720d | 2024-10-21 | 9 | 10 | 23 | 8 | 21 | 22 |
+| 30d | 2026-09-12 | 1 | 1 | 4 | 0 | 0 | 2 |
+| last60d | 2026-08-13 | 2 | 1 | 5 | 1 | 0 | 9 |
+| 90d | 2026-07-14 | 5 | 4 | 7 | 2 | 1 | 11 |
+| last180d | 2026-04-15 | 7 | 7 | 11 | 3 | 4 | 16 |
+| 360d | 2025-10-17 | 9 | 8 | 14 | 4 | 7 | 19 |
+| last720d | 2024-10-22 | 10 | 11 | 22 | 9 | 19 | 24 |
 
 ## Release assets
 
@@ -158,4 +158,4 @@ Install metadata for chisel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:53:23Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:13:24Z._
