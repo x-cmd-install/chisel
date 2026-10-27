@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,689 · **Forks**: 1,614 · **Open issues**: 358 · **Contributors**: 40
+- **Stars**: 16,693 · **Forks**: 1,614 · **Open issues**: 358 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 59 · **Open PRs**: 50 · **Closed issues**: 161 · **Open issues**: 197 · **Commits**: 263
+- **Releases**: 42 · **Merged PRs**: 59 · **Open PRs**: 51 · **Closed issues**: 161 · **Open issues**: 197 · **Commits**: 263
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 1 | 4 | 0 | 1 | 2 |
-| last60d | 2026-08-27 | 2 | 1 | 5 | 0 | 1 | 2 |
-| 90d | 2026-07-28 | 3 | 2 | 7 | 1 | 1 | 11 |
-| last180d | 2026-04-29 | 7 | 7 | 11 | 3 | 5 | 15 |
-| 360d | 2025-10-31 | 9 | 8 | 14 | 4 | 8 | 19 |
-| last720d | 2024-11-05 | 10 | 11 | 19 | 9 | 20 | 24 |
+| 30d | 2026-09-27 | 1 | 1 | 5 | 0 | 1 | 2 |
+| last60d | 2026-08-28 | 2 | 1 | 6 | 0 | 1 | 2 |
+| 90d | 2026-07-29 | 3 | 2 | 8 | 1 | 1 | 11 |
+| last180d | 2026-04-30 | 7 | 6 | 12 | 2 | 5 | 15 |
+| 360d | 2025-11-01 | 9 | 8 | 15 | 4 | 8 | 19 |
+| last720d | 2024-11-06 | 10 | 11 | 20 | 9 | 20 | 24 |
 
 ## Release assets
 
@@ -158,4 +158,4 @@ Install metadata for chisel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:49:09Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:10:09Z._
